@@ -7,6 +7,35 @@ function double() {
   x = x * 2
 }
 
+var y = 10
+
+function triple() {
+  y = y * 3
+}
+
+var z = 4
+
+function square() {
+  z = 4 ** 2
+}
+
+var greeting = "hello"
+var firstName = "Robert"
+
+function beNice() {
+   console.log(greeting += firstName)
+}
+
+var callStatus = "ringing"
+
+function changeName(Danger) {
+  firstName = "Danger"
+}
+
+function hangUp() {
+  callStatus = "call ended"
+}
+
 
 /*********************************************************************************************************************
 
