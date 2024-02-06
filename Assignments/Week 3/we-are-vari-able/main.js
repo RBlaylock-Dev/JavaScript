@@ -1,7 +1,17 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-
+var myFirstName = "Robert"
+var myLastName = "Blaylock"
+var myFavoriteCeleb = "Jelly Roll"
+var mySentence = "My name is Robert Blaylock and Jelly Roll is my favorite celebrity."
+var myLuckyNum = 7
+var myAge = 30
+var myHeight = 65
+var myFavoriteYear = 2022
+var mySum = 5 + 2317 + 36
+var myProduct = 232 * 43 / 2 + 4
+var myHeightAndAge = myAge + myHeight
 
 /*********************************************************************************************************************
 
